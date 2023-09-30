@@ -448,6 +448,16 @@ h5{
 }
 
 
+.footer-social-media a{
+    color: white;
+    text-decoration: none;
+    transition: 0.3s all ease;
+}
+
+.footer-social-media a:hover{
+    color: var(--secondary-yellow);
+}
+
 
 
 /*--- RESPONSIVE TABLET---*/
