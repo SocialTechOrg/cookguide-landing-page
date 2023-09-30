@@ -16,7 +16,7 @@ body{
     padding: 0%;
     margin: 0%;
     font-family: 'Arvo', serif;
-    
+
 }
 
 h1{
@@ -448,6 +448,15 @@ h5{
     font-size: 50px;
 }
 
+.footer-social-media a{
+    color: white;
+    text-decoration: none;
+    transition: 0.3s all ease;
+}
+
+.footer-social-media a:hover{
+    color: var(--secondary-yellow);
+}
 
 
 
